@@ -23,7 +23,7 @@ Une interface universelle pour dialoguer avec n’importe quel agent intelligent
 
 ## 🖼️ Aperçu
 
-![Screenshot](link-vers-ton-image-ou-gif)
+![Screenshot](link-vers-ton-8image-ou-gif)
 
 ---
 
@@ -41,6 +41,6 @@ Une interface universelle pour dialoguer avec n’importe quel agent intelligent
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ton-milyes/universal-chat-ui.git
+git clone https://github.com/milyes/universal-chat-ui.git
 cd universal-chat-ui
 docker-compose up --build
